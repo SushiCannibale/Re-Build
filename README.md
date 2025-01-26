@@ -18,7 +18,7 @@ Here is a list of what we would like to implement as quickly as possible as a pr
 **🔑 Auth:** Only allow students at EPITA Toulouse to use the service. \
 **📛 Limitations:** One tag a week. This is meant to avoid abuses \
 **📦 Test submission:** Students can submit test suites and review them. \
-**🚢 Contained environment:** On-demand docker containers. (I know, no k8s cluster for now 😢) \
+**🚢 Environments:** On-demand docker containers. (I know, no k8s cluster for now 😢) \
 **🌍 Website:** To group the actions available to a student. \
 * Registering SSH keys
 * Submitting a test suite for a project
